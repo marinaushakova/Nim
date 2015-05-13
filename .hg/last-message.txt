@@ -1,0 +1,3 @@
+Added buildHelpMenu method to the NimMenuBar class that creates and adds Help menu item and About menu item to the menu bar.
+Added missing Javadoc comments. 
+Modified howtoplay.html page of nimweb user guide to reflect the changes.

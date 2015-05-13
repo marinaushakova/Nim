@@ -1,0 +1,1 @@
+Added howtoplay.html page that describes how to play the Game.
